@@ -7,3 +7,4 @@ echo $line
 echo this is while loop
 
 done < $file
+Echo "assignment 16 nov"
