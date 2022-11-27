@@ -13,6 +13,6 @@ if [ "$input" -ne "$reverse" ]
 then
 echo "Not a palindrome"
 else
-echo "it is a palindrome"
+echo "it is a palindrome.. confirmed"
 fi
 rm temp
